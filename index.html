@@ -1,6 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){
+            w[l]=w[l]||[];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event:'gtm.js'
+            });
+
+            var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),
+                dl=l!='dataLayer'?'&l='+l:'';
+
+            j.async=true;
+            j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+            f.parentNode.insertBefore(j,f);
+
+        })(window,document,'script','dataLayer','GTM-WP3L7SV3');
+    </script>
+    <!-- End Google Tag Manager -->
+
     <meta charset="UTF-8">
 
     <meta
@@ -52,6 +74,17 @@
 
 <body class="bg-gray-50 text-brandDark">
 
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-WP3L7SV3"
+            height="0"
+            width="0"
+            style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     <!-- Navigation -->
     <nav class="bg-white border-b border-gray-200 shadow-sm sticky top-0 z-40">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
@@ -99,7 +132,7 @@
 
                     <a
                         href="tel:+12819654447"
-                        class="text-brandBlue font-bold hover:text-brandNavy transition"
+                        class="text-brandBlue font-bold hover:text-brandNavy transition phone-click"
                     >
                         Call Now: (281) 965-4447
                     </a>
@@ -115,7 +148,7 @@
                 <!-- Mobile Call Button -->
                 <a
                     href="tel:+12819654447"
-                    class="md:hidden bg-brandBlue hover:bg-brandNavy text-white font-bold px-4 py-2 rounded-lg transition"
+                    class="md:hidden bg-brandBlue hover:bg-brandNavy text-white font-bold px-4 py-2 rounded-lg transition phone-click"
                 >
                     Call Now
                 </a>
@@ -201,7 +234,7 @@
 
                         <a
                             href="tel:+12819654447"
-                            class="inline-flex items-center justify-center border-2 border-brandNavy text-brandNavy hover:bg-brandNavy hover:text-white font-bold px-7 py-4 rounded-lg text-lg transition"
+                            class="inline-flex items-center justify-center border-2 border-brandNavy text-brandNavy hover:bg-brandNavy hover:text-white font-bold px-7 py-4 rounded-lg text-lg transition phone-click"
                         >
                             Call (281) 965-4447
                         </a>
@@ -233,6 +266,7 @@
                     </div>
 
                     <form
+                        id="cash-offer-form"
                         action="https://formspree.io/f/mzdnlkwl"
                         method="POST"
                         class="space-y-5"
@@ -247,6 +281,13 @@
                             type="hidden"
                             name="lead_source"
                             value="SellToPenRunners.com"
+                        >
+
+                        <!-- Optional redirect after successful submission -->
+                        <input
+                            type="hidden"
+                            name="_next"
+                            value="https://selltoprunners.com/thank-you.html"
                         >
 
                         <!-- Property Address -->
@@ -550,7 +591,7 @@
 
                         <a
                             href="tel:+12819654447"
-                            class="inline-block mt-1 text-xl font-extrabold text-brandBlue hover:text-brandNavy transition"
+                            class="inline-block mt-1 text-xl font-extrabold text-brandBlue hover:text-brandNavy transition phone-click"
                         >
                             (281) 965-4447
                         </a>
@@ -612,7 +653,6 @@
 
             <div class="grid md:grid-cols-3 gap-8">
 
-                <!-- Step 1 -->
                 <div class="bg-gray-50 border border-gray-200 rounded-2xl p-8 text-center">
                     <div class="w-16 h-16 bg-brandLight text-brandBlue rounded-full flex items-center justify-center text-2xl font-extrabold mx-auto mb-5">
                         1
@@ -626,7 +666,7 @@
                         Complete the form or call us at
                         <a
                             href="tel:+12819654447"
-                            class="text-brandBlue font-bold"
+                            class="text-brandBlue font-bold phone-click"
                         >
                             (281) 965-4447
                         </a>
@@ -634,7 +674,6 @@
                     </p>
                 </div>
 
-                <!-- Step 2 -->
                 <div class="bg-gray-50 border border-gray-200 rounded-2xl p-8 text-center">
                     <div class="w-16 h-16 bg-brandLight text-brandBlue rounded-full flex items-center justify-center text-2xl font-extrabold mx-auto mb-5">
                         2
@@ -650,7 +689,6 @@
                     </p>
                 </div>
 
-                <!-- Step 3 -->
                 <div class="bg-gray-50 border border-gray-200 rounded-2xl p-8 text-center">
                     <div class="w-16 h-16 bg-brandLight text-brandBlue rounded-full flex items-center justify-center text-2xl font-extrabold mx-auto mb-5">
                         3
@@ -964,7 +1002,7 @@
 
                 <a
                     href="tel:+12819654447"
-                    class="inline-flex items-center justify-center border-2 border-white text-white hover:bg-white hover:text-brandBlue font-extrabold px-8 py-4 rounded-lg text-lg transition"
+                    class="inline-flex items-center justify-center border-2 border-white text-white hover:bg-white hover:text-brandBlue font-extrabold px-8 py-4 rounded-lg text-lg transition phone-click"
                 >
                     Call (281) 965-4447
                 </a>
@@ -1007,7 +1045,7 @@
                         Phone:
                         <a
                             href="tel:+12819654447"
-                            class="text-white font-bold hover:text-blue-200 transition"
+                            class="text-white font-bold hover:text-blue-200 transition phone-click"
                         >
                             (281) 965-4447
                         </a>
@@ -1083,10 +1121,41 @@
     <a
         href="tel:+12819654447"
         aria-label="Call PenRunners Home Buyers at 281-965-4447"
-        class="fixed bottom-5 right-5 z-50 md:hidden bg-brandBlue hover:bg-brandNavy text-white font-extrabold px-5 py-4 rounded-full shadow-2xl transition"
+        class="fixed bottom-5 right-5 z-50 md:hidden bg-brandBlue hover:bg-brandNavy text-white font-extrabold px-5 py-4 rounded-full shadow-2xl transition phone-click"
     >
         📞 Call Now
     </a>
+
+    <!-- Tracking Events for Google Tag Manager -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        // Track clicks on every phone link.
+        document.querySelectorAll('a[href^="tel:"]').forEach(function(link) {
+            link.addEventListener('click', function() {
+                window.dataLayer.push({
+                    event: 'phone_click',
+                    phone_number: '281-965-4447',
+                    link_text: this.textContent.trim(),
+                    page_url: window.location.href
+                });
+            });
+        });
+
+        // Track when the cash-offer form is submitted.
+        const cashOfferForm = document.getElementById('cash-offer-form');
+
+        if (cashOfferForm) {
+            cashOfferForm.addEventListener('submit', function() {
+                window.dataLayer.push({
+                    event: 'cash_offer_form_submit',
+                    form_id: 'cash-offer-form',
+                    form_name: 'PenRunners Cash Offer Form',
+                    page_url: window.location.href
+                });
+            });
+        }
+    </script>
 
 </body>
 </html>
