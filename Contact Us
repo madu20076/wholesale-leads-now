@@ -1,0 +1,196 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Contact PenRunners Home Buyers | Houston, TX</title>
+    <meta name="description" content="Contact PenRunners Home Buyers about selling a Houston-area house directly for cash and as-is. Call (281) 965-4447 or request a no-obligation cash offer online.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.selltopenrunners.com/contact.html">
+
+    <!-- Google Tag Manager -->
+    <script>
+    (function(w,d,s,l,i){
+        w[l]=w[l]||[];
+        w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),
+            dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;
+        j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+        f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WP3L7SV3');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Contact PenRunners Home Buyers">
+    <meta property="og:description" content="Contact PenRunners Home Buyers about selling a property in Houston and surrounding communities.">
+    <meta property="og:url" content="https://www.selltopenrunners.com/contact.html">
+    <meta property="og:site_name" content="PenRunners Home Buyers">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        brandNavy: "#163B65",
+                        brandBlue: "#2563EB",
+                        brandLight: "#DBEAFE",
+                        brandDark: "#1F2937"
+                    }
+                }
+            }
+        };
+    </script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: "Inter", sans-serif; }
+    </style>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ContactPage",
+      "name": "Contact PenRunners Home Buyers",
+      "url": "https://www.selltopenrunners.com/contact.html",
+      "mainEntity": {
+        "@type": "Organization",
+        "@id": "https://www.selltopenrunners.com/#organization",
+        "name": "PenRunners Home Buyers",
+        "url": "https://www.selltopenrunners.com/",
+        "telephone": "+1-281-965-4447",
+        "areaServed": "Houston, Texas and surrounding communities"
+      }
+    }
+    </script>
+</head>
+
+<body class="bg-gray-50 text-brandDark">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WP3L7SV3"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+    <nav class="bg-white border-b border-gray-200 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
+            <a href="/" class="flex items-center gap-3">
+                <div class="w-11 h-11 bg-brandNavy rounded-xl flex items-center justify-center text-white font-extrabold text-xl">P</div>
+                <div>
+                    <p class="text-xl font-extrabold text-brandNavy leading-tight">PenRunners</p>
+                    <p class="text-sm font-semibold text-brandBlue leading-tight">Home Buyers</p>
+                </div>
+            </a>
+            <div class="hidden md:flex items-center gap-7 font-semibold text-gray-600">
+                <a href="/" class="hover:text-brandBlue">Home</a>
+                <a href="/about.html" class="hover:text-brandBlue">About Us</a>
+                <a href="tel:+12819654447" class="text-brandBlue font-bold">Call (281) 965-4447</a>
+                <a href="/#form-section" class="bg-brandBlue text-white font-bold px-5 py-3 rounded-lg">Get My Cash Offer</a>
+            </div>
+            <a href="tel:+12819654447" class="md:hidden bg-brandBlue text-white font-bold px-4 py-2 rounded-lg">Call Now</a>
+        </div>
+    </nav>
+
+    <header class="bg-white border-b border-gray-200">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24 text-center">
+            <p class="text-brandBlue font-bold uppercase tracking-wider mb-3">Contact Us</p>
+            <h1 class="text-4xl sm:text-5xl font-extrabold text-brandNavy mb-6">Talk With PenRunners Home Buyers</h1>
+            <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
+                Have a Houston-area property you're considering selling? Call us or use the cash-offer form on our homepage to tell us about the property.
+            </p>
+        </div>
+    </header>
+
+    <main>
+        <section class="py-20">
+            <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 grid lg:grid-cols-2 gap-10">
+                <div class="bg-white border border-gray-200 rounded-2xl p-8 shadow-sm">
+                    <p class="text-brandBlue font-bold uppercase tracking-wider mb-3">Phone</p>
+                    <h2 class="text-3xl font-extrabold text-brandNavy mb-4">Call Us</h2>
+                    <p class="text-gray-600 leading-relaxed mb-6">
+                        Speak with PenRunners Home Buyers about your property and the direct-sale process.
+                    </p>
+                    <a href="tel:+12819654447" class="text-2xl font-extrabold text-brandBlue hover:text-brandNavy">(281) 965-4447</a>
+                </div>
+
+                <div class="bg-white border border-gray-200 rounded-2xl p-8 shadow-sm">
+                    <p class="text-brandBlue font-bold uppercase tracking-wider mb-3">Property Information</p>
+                    <h2 class="text-3xl font-extrabold text-brandNavy mb-4">Request a Cash Offer</h2>
+                    <p class="text-gray-600 leading-relaxed mb-6">
+                        Use our secure property form to provide the address, condition, selling timeline, and your contact information.
+                    </p>
+                    <a href="/#form-section" class="inline-block bg-brandBlue hover:bg-brandNavy text-white font-extrabold px-7 py-4 rounded-lg shadow-md">
+                        Go to Cash Offer Form
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="py-20 bg-white">
+            <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="grid lg:grid-cols-2 gap-12">
+                    <div>
+                        <p class="text-brandBlue font-bold uppercase tracking-wider mb-3">Service Area</p>
+                        <h2 class="text-3xl font-extrabold text-brandNavy mb-5">Houston & Surrounding Communities</h2>
+                        <p class="text-lg text-gray-600 leading-relaxed">
+                            PenRunners Home Buyers serves Houston and nearby communities, including Katy, Sugar Land, Richmond, Cypress, Pearland, Missouri City, and Pasadena. Contact us to confirm service availability for a specific property.
+                        </p>
+                    </div>
+                    <div class="bg-brandLight rounded-2xl p-8">
+                        <h2 class="text-2xl font-extrabold text-brandNavy mb-5">Before You Contact Us</h2>
+                        <p class="text-gray-700 leading-relaxed mb-4">
+                            Having the property address and a general idea of its condition will help us understand your situation.
+                        </p>
+                        <p class="text-gray-700 leading-relaxed">
+                            Requesting information or an offer does not obligate you to sell your property to PenRunners Home Buyers.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="py-16 bg-brandBlue text-white">
+            <div class="max-w-4xl mx-auto px-4 text-center">
+                <h2 class="text-3xl sm:text-4xl font-extrabold mb-4">Ready to Discuss Your Property?</h2>
+                <p class="text-lg text-blue-100 mb-8">Call us or tell us about your house online.</p>
+                <div class="flex flex-col sm:flex-row justify-center gap-4">
+                    <a href="tel:+12819654447" class="bg-white text-brandBlue font-extrabold px-8 py-4 rounded-lg">Call (281) 965-4447</a>
+                    <a href="/#form-section" class="border-2 border-white text-white font-extrabold px-8 py-4 rounded-lg">Get My Cash Offer</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-brandNavy text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div class="grid md:grid-cols-3 gap-10">
+                <div>
+                    <p class="text-2xl font-extrabold">PenRunners Home Buyers</p>
+                    <p class="text-blue-200 font-semibold mt-2">Sell As-Is. Close on Your Terms.</p>
+                </div>
+                <div>
+                    <h3 class="font-extrabold text-lg mb-4">Contact</h3>
+                    <p class="text-gray-300 mb-2">Houston, Texas</p>
+                    <p class="text-gray-300">Phone: <a href="tel:+12819654447" class="text-white font-bold">(281) 965-4447</a></p>
+                </div>
+                <div>
+                    <h3 class="font-extrabold text-lg mb-4">Quick Links</h3>
+                    <div class="flex flex-col gap-3 text-gray-300">
+                        <a href="/" class="hover:text-white">Home</a>
+                        <a href="/about.html" class="hover:text-white">About Us</a>
+                        <a href="/contact.html" class="hover:text-white">Contact Us</a>
+                        <a href="/#form-section" class="hover:text-white">Get My Cash Offer</a>
+                    </div>
+                </div>
+            </div>
+            <div class="border-t border-blue-800 mt-10 pt-8 text-sm text-gray-400">
+                <p>© 2026 PenRunners Home Buyers. All rights reserved.</p>
+                <p class="mt-4">PenRunners Home Buyers is a real estate investment company and is not acting as your real estate agent or broker. Any offer is subject to property evaluation, title review, and written agreement.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
